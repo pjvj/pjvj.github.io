@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.41710ef3.css",
-    "main.js": "/static/js/main.d762b3a6.js",
-    "static/css/64.917cfe77.chunk.css": "/static/css/64.917cfe77.chunk.css",
-    "static/js/64.de24b5b0.chunk.js": "/static/js/64.de24b5b0.chunk.js",
-    "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
-    "static/js/769.7f15e30f.chunk.js": "/static/js/769.7f15e30f.chunk.js",
+    "main.css": "/static/css/main.788bc1ed.css",
+    "main.js": "/static/js/main.f7dbaf10.js",
+    "static/css/772.e0ed7d19.chunk.css": "/static/css/772.e0ed7d19.chunk.css",
+    "static/js/772.f16c8817.chunk.js": "/static/js/772.f16c8817.chunk.js",
+    "static/css/61.9b48ff03.chunk.css": "/static/css/61.9b48ff03.chunk.css",
+    "static/js/61.8c35674e.chunk.js": "/static/js/61.8c35674e.chunk.js",
     "static/media/image-based-lighting.png": "/static/media/image-based-lighting.34157d325df2502d8898.png",
     "static/media/number-plate-recognition.png": "/static/media/number-plate-recognition.d685d4c6e630a28c5e10.png",
     "static/media/psychometric-analysis.png": "/static/media/psychometric-analysis.b51ad3a20cb4da083b34.png",
@@ -32,15 +32,15 @@
     "static/media/github-mark.svg": "/static/media/github-mark.97ed8e7eef60d61ca469881dd6f34511.svg",
     "static/media/presentation.svg": "/static/media/presentation.4c29f4dbfff3db0fca8cf75f814b95fc.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.41710ef3.css.map": "/static/css/main.41710ef3.css.map",
-    "main.d762b3a6.js.map": "/static/js/main.d762b3a6.js.map",
-    "64.917cfe77.chunk.css.map": "/static/css/64.917cfe77.chunk.css.map",
-    "64.de24b5b0.chunk.js.map": "/static/js/64.de24b5b0.chunk.js.map",
-    "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
-    "769.7f15e30f.chunk.js.map": "/static/js/769.7f15e30f.chunk.js.map"
+    "main.788bc1ed.css.map": "/static/css/main.788bc1ed.css.map",
+    "main.f7dbaf10.js.map": "/static/js/main.f7dbaf10.js.map",
+    "772.e0ed7d19.chunk.css.map": "/static/css/772.e0ed7d19.chunk.css.map",
+    "772.f16c8817.chunk.js.map": "/static/js/772.f16c8817.chunk.js.map",
+    "61.9b48ff03.chunk.css.map": "/static/css/61.9b48ff03.chunk.css.map",
+    "61.8c35674e.chunk.js.map": "/static/js/61.8c35674e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41710ef3.css",
-    "static/js/main.d762b3a6.js"
+    "static/css/main.788bc1ed.css",
+    "static/js/main.f7dbaf10.js"
   ]
 }
