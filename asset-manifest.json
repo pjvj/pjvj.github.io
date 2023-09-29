@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.788bc1ed.css",
-    "main.js": "/static/js/main.7ca8237c.js",
+    "main.js": "/static/js/main.87b45fee.js",
     "static/css/772.e0ed7d19.chunk.css": "/static/css/772.e0ed7d19.chunk.css",
     "static/js/772.f16c8817.chunk.js": "/static/js/772.f16c8817.chunk.js",
     "static/css/61.9b48ff03.chunk.css": "/static/css/61.9b48ff03.chunk.css",
@@ -30,6 +30,7 @@
     "static/media/adv-sql-for-ds-time-series.jpeg": "/static/media/adv-sql-for-ds-time-series.cbf75700d2f10d88825e.jpeg",
     "static/media/datascience.jpeg": "/static/media/datascience.3560e7641347289d909d.jpeg",
     "static/media/swym-logo.png": "/static/media/swym-logo.73f1caf695df827dd9e9.png",
+    "static/media/deep_transform.png": "/static/media/deep_transform.236acd4f83fed3d88ef7.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -42,7 +43,7 @@
     "static/media/presentation.svg": "/static/media/presentation.4c29f4dbfff3db0fca8cf75f814b95fc.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.788bc1ed.css.map": "/static/css/main.788bc1ed.css.map",
-    "main.7ca8237c.js.map": "/static/js/main.7ca8237c.js.map",
+    "main.87b45fee.js.map": "/static/js/main.87b45fee.js.map",
     "772.e0ed7d19.chunk.css.map": "/static/css/772.e0ed7d19.chunk.css.map",
     "772.f16c8817.chunk.js.map": "/static/js/772.f16c8817.chunk.js.map",
     "61.9b48ff03.chunk.css.map": "/static/css/61.9b48ff03.chunk.css.map",
@@ -50,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.788bc1ed.css",
-    "static/js/main.7ca8237c.js"
+    "static/js/main.87b45fee.js"
   ]
 }
