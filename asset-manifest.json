@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0ce160ec.css",
-    "main.js": "/static/js/main.f46beb6a.js",
+    "main.js": "/static/js/main.a1cf1420.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.96eca768.chunk.js": "/static/js/487.96eca768.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -12,7 +12,6 @@
     "static/media/psychometric-analysis.png": "/static/media/psychometric-analysis.b51ad3a20cb4da083b34.png",
     "static/media/texture transfer.png": "/static/media/texture transfer.0e29cb498eaf473fb870.png",
     "static/media/sentiment-analysis.png": "/static/media/sentiment-analysis.f715a2c1686d11a17b5e.png",
-    "static/media/uiuclogo2.png": "/static/media/uiuclogo2.b7e52bba35be363d647e.png",
     "static/media/computer-science-cr.png": "/static/media/computer-science-cr.eb0ba3f75d2ea23fba4c.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/INCAS.jpg": "/static/media/INCAS.f5a6124b061e1b624f91.jpg",
@@ -35,6 +34,7 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/uiuc_logo.png": "/static/media/uiuc_logo.28c60094eeb53973183d.png",
     "static/media/Intel-Logo2.png": "/static/media/Intel-Logo2.be313d639c9a677c07a0.png",
     "static/media/website.png": "/static/media/website.9ba529564d528ee906a9.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -44,7 +44,7 @@
     "static/media/presentation.svg": "/static/media/presentation.4c29f4dbfff3db0fca8cf75f814b95fc.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0ce160ec.css.map": "/static/css/main.0ce160ec.css.map",
-    "main.f46beb6a.js.map": "/static/js/main.f46beb6a.js.map",
+    "main.a1cf1420.js.map": "/static/js/main.a1cf1420.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.96eca768.chunk.js.map": "/static/js/487.96eca768.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -52,6 +52,6 @@
   },
   "entrypoints": [
     "static/css/main.0ce160ec.css",
-    "static/js/main.f46beb6a.js"
+    "static/js/main.a1cf1420.js"
   ]
 }
